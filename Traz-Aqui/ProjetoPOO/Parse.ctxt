@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Parse
+comment1.params=
+comment1.target=GerirTrazAqui\ parse()
+comment2.params=input
+comment2.target=Utilizador\ parseUtilizador(java.lang.String)
+comment3.params=input
+comment3.target=Lojas\ parseLojas(java.lang.String)
+comment4.params=input
+comment4.target=Voluntario\ parseVoluntario(java.lang.String)
+comment5.params=input
+comment5.target=Encomendas\ parseEncomendas(java.lang.String)
+comment6.params=input
+comment6.target=Produto\ parseProduto(java.lang.String)
+comment7.params=input
+comment7.target=Transportadora\ parseTransportadora(java.lang.String)
+comment8.params=cod
+comment8.target=void\ aceitaEncomenda(java.lang.String)
+comment9.params=nomeFich
+comment9.target=java.util.List\ lerFicheiro(java.lang.String)
+numComments=10

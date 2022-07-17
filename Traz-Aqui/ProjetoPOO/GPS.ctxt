@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GPS
+comment1.params=
+comment1.target=GPS()
+comment10.params=l
+comment10.target=double\ distEntre(GPS)
+comment11.params=t
+comment11.target=boolean\ inRangeT(Transportadora)
+comment12.params=v
+comment12.target=boolean\ inRangeV(Voluntario)
+comment2.params=latitude\ longitude
+comment2.target=GPS(double,\ double)
+comment3.params=coordenadas
+comment3.target=GPS(GPS)
+comment4.params=
+comment4.target=double\ getLatitude()
+comment5.params=latitude
+comment5.target=void\ setLatitude(double)
+comment6.params=
+comment6.target=double\ getLongitude()
+comment7.params=longitude
+comment7.target=void\ setLongitude(double)
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=GPS\ clone()
+numComments=13
